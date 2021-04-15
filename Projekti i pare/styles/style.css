@@ -270,6 +270,7 @@ body #three .our-products .our-products-items .product img {
         -ms-flex-align: center;
             align-items: center;
     width: 100%;
+    margin-left: 120px;
   }
   body #navBar {
     -webkit-box-orient: vertical;
